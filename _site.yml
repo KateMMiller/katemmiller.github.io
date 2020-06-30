@@ -1,0 +1,12 @@
+name: "Kate M Miller"
+navbar:
+  title: "Github Pages for Repos"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Forest Crew R Training"
+      href: R_training.html
+output: 
+  html_document:
+    theme: paper
+    css: 'custom_styles.css'
