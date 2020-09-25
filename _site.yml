@@ -1,11 +1,13 @@
 name: "Kate M Miller"
 navbar:
-  title: "Github Pages for Repos"
+  title: "Kate Miller"
   left:
     - text: "Home"
       href: index.html
     - text: "Forest Crew R Training"
-      href: R_training.html
+      href: Forest_Crew_R_training.html
+    - text: "ACAD R Training"
+      href: ACAD_R_training.html
 output: 
   html_document:
     theme: paper
