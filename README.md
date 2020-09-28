@@ -29,10 +29,6 @@
 <li>
   <a href="R_Training/index.html">ACAD R Training</a>
 </li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
