@@ -5,13 +5,13 @@ output:
 ---
 <h1><b>Kate Miller github landing page</b></h1>
 
-<h2>Github page and repos</h2>
+<h2>Github repos</h2>
 <p style="font-size:16px">
-<a href="https://github.com/KateMMiller">https://github.com/KateMMiller</a><br>
-&emsp;<a href="https://github.com/KateMMiller/forestMIDN">forestMIDN: R package for summarizing and compiling MIDN forest data</a><br>
-&emsp;<a href="https://github.com/KateMMiller/forestNETN">forestNETN: R package for summarizing and compiling NETN forest data</a><br>
-&emsp;<a href="https://github.com/KateMMiller/wetlandACAD">wetlandACAD: R package for summarizing and compiling freshwater wetland data in Acadia National Park</a><br>
-&emsp;<a href="https://github.com/KateMMiller/wetlandViz">wetlandViz: R shiny app to visualize freshwater wetland data in Acadia National Park</a><br></p>
+Github profile: <a href="https://github.com/KateMMiller">KateMMiller</a><br>
+&emsp;<a href="https://github.com/KateMMiller/forestMIDN">forestMIDN:</a> R package for summarizing and compiling MIDN forest data<br>
+&emsp;<a href="https://github.com/KateMMiller/forestNETN">forestNETN:</a> R package for summarizing and compiling NETN forest data<br>
+&emsp;<a href="https://github.com/KateMMiller/wetlandACAD">wetlandACAD:</a> R package for summarizing and compiling freshwater wetland data in Acadia National Park<br>
+&emsp;<a href="https://github.com/KateMMiller/wetlandViz">wetlandViz:</a> R shiny app to visualize freshwater wetland data in Acadia National Park<br></p>
 
 <h2>R training websites</h2>
 <p style="font-size:16px">

@@ -3,3 +3,4 @@ output:
   html_document:
     theme: paper
     css: '/css/custom_styles.css'
+output_dir: '.'
