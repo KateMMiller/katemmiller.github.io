@@ -50,51 +50,6 @@ Other websites/Information
 <p style="font-size:16px">
 <a href="https://www.nps.gov/im/netn">Northeast Temperate Network homepage</a><br> <a href="https://www.nps.gov/im/midn">Mid-Atlantic Network homepage</a><br> <a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a><br> <a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br> <a href="./info/Miller_CV_2020.pdf">CV</a><br>
 </p>
-
-
-
-
 </div>
-
-<script>
-
-// add bootstrap table styles to pandoc tables
-function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
-}
-$(document).ready(function () {
-  bootstrapStylePandocTables();
-});
-
-
-</script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
-
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
-
 </body>
 </html>
