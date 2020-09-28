@@ -3,7 +3,7 @@ navbar:
   title: "Kate Miller"
   left:
     - text: "Home"
-      href: index.html
+      href: _site/index.html
     - text: "Forest Crew R Training"
       href: Forest_Crew_R_Training/index.html
     - text: "ACAD R Training"
