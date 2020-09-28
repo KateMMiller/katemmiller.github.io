@@ -22,4 +22,4 @@ output:
 <a href="https://www.nps.gov/im/midn">Mid-Atlantic Network homepage</a><br>
 <a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a><br>
 <a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br>
-<a href="Miller_CV_2020.pdf">CV</a><br></p>
+<a href="./info/Miller_CV_2020.pdf">CV</a><br></p>
