@@ -3,9 +3,9 @@ output:
   html_document:
     css: css/custom_styles.css
 ---
-<h1><u>Kate Miller github landing page</u></h1>
+<h1><b>Kate Miller github landing page</b></h1>
 
-<h1>Github page and repos</h2>
+<h2>Github page and repos</h2>
 <p style="font-size:16px">
 <a href="https://github.com/KateMMiller">https://github.com/KateMMiller</a><br>
 &emsp;<a href="https://github.com/KateMMiller/forestMIDN">forestMIDN: R package for summarizing and compiling MIDN forest data</a><br>
