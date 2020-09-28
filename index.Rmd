@@ -6,10 +6,10 @@ output:
 <h1>Github page and repos</h1>
 <p style="font-size:16px">
 <a href="https://github.com/KateMMiller">https://github.com/KateMMiller</a><br>
-<a href="https://github.com/KateMMiller/forestMIDN">&emsp;forestMIDN: R package for summarizing and compiling MIDN forest data</a><br>
-<a href="https://github.com/KateMMiller/forestNETN">&emsp;forestNETN: R package for summarizing and compiling NETN forest data</a><br>
-<a href="https://github.com/KateMMiller/wetlandACAD">&emsp;wetlandACAD: R package for summarizing and compiling freshwater wetland data in Acadia National Park</a><br>
-<a href="https://github.com/KateMMiller/wetlandViz">&emsp;wetlandViz: R shiny app to visualize freshwater wetland data in Acadia National Park</a><br></p>
+&emsp;<a href="https://github.com/KateMMiller/forestMIDN">forestMIDN: R package for summarizing and compiling MIDN forest data</a><br>
+&emsp;<a href="https://github.com/KateMMiller/forestNETN">forestNETN: R package for summarizing and compiling NETN forest data</a><br>
+&emsp;<a href="https://github.com/KateMMiller/wetlandACAD">wetlandACAD: R package for summarizing and compiling freshwater wetland data in Acadia National Park</a><br>
+&emsp;<a href="https://github.com/KateMMiller/wetlandViz">wetlandViz: R shiny app to visualize freshwater wetland data in Acadia National Park</a><br></p>
 
 <h2>R training websites</h2>
 <p style="font-size:16px">
