@@ -4,10 +4,6 @@ navbar:
   left:
     - text: "Home"
       href: _site/index.html
-    - text: "Forest Crew R Training"
-      href: Forest_Crew_R_Training/index.html
-    - text: "ACAD R Training"
-      href: R_Training/index.html
 output: 
   html_document:
     theme: paper
