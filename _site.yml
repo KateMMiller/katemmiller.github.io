@@ -11,4 +11,4 @@ navbar:
 output: 
   html_document:
     theme: paper
-    css: 'custom_styles.css'
+    css: '/css/custom_styles.css'

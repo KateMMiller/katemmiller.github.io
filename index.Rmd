@@ -1,9 +1,7 @@
 ---
 output: 
   html_document:
-    css: custom_styles.css
-params:
-  output_dir: "."
+    css: css/custom_styles.css
 ---
 <h1>Github page and repos</h1>
 <p style="font-size:16px">
