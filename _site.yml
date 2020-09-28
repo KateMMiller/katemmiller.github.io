@@ -1,9 +1,4 @@
 name: "Kate M Miller"
-navbar:
-  title: "Kate Miller"
-  left:
-    - text: "Home"
-      href: _site/index.html
 output: 
   html_document:
     theme: paper
