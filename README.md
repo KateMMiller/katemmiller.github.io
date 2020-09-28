@@ -20,15 +20,6 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li>
-  <a href="index.html">Home</a>
-</li>
-<li>
-  <a href="Forest_Crew_R_Training/index.html">Forest Crew R Training</a>
-</li>
-<li>
-  <a href="R_Training/index.html">ACAD R Training</a>
-</li>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
