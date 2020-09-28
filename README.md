@@ -1,24 +1,3 @@
-</head>
-
-<body>
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
-
-
-
-
-<div class="fluid-row" id="header">
-
-
-
-
-</div>
-
-
 <h1>
 <b>Kate Miller github landing page</b>
 </h1>
