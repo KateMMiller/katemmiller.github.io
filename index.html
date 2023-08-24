@@ -11,24 +11,38 @@
 
 
 
-<title>index.utf8</title>
+<title>index.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -41,34 +55,10 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
-<link rel="stylesheet" href="css\custom_styles.css" type="text/css" />
+
+
+<link rel="stylesheet" href="css/custom_styles.css" type="text/css" />
 
 
 
@@ -77,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -97,6 +83,12 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
@@ -109,13 +101,12 @@ summary {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -123,16 +114,9 @@ summary {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -173,7 +157,7 @@ summary {
 
 
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -188,20 +172,68 @@ summary {
 R training websites
 </h2>
 <p style="font-size:16px">
-<a href="https://katemmiller.github.io/Forest_Crew_R_Training">Forest Crew R Training 2020</a><br> <a href="https://katemmiller.github.io/R_Training/">ACAD R Training 2020</a><br>
+<a href="https://katemmiller.github.io/IMD_R_Training_Intro/">IMD 2022
+Scientists Training- Intro to R:</a> Developed Prep for Training and
+Visualizing Spatial Data.<br>
+<a href="https://katemmiller.github.io/IMD_R_Training_Advanced/">IMD
+2022 Scientists Training- Advanced R:</a> Developed Prep for Training,
+Data Retrieval, GIS in R, Downloading FIA data, R Markdown, and R
+Packages.<br> <a href="https://katemmiller.github.io/R_Training/">ACAD R
+Training 2020:</a> Intro to R training for Acadia NP Resource Management
+staff.<br>
+<a href="https://katemmiller.github.io/Forest_Crew_R_Training">Forest
+Crew R Training 2020:</a> Intro to R training for NETN/MIDN forest
+crew.<br>
 </p>
 <h2>
 Github repos
 </h2>
 <p style="font-size:16px">
-Github profile: <a href="https://github.com/KateMMiller">KateMMiller</a><br>  <a href="https://github.com/KateMMiller/forestMIDN">forestMIDN:</a> R package for summarizing and compiling MIDN forest data<br>  <a href="https://github.com/KateMMiller/forestNETN">forestNETN:</a> R package for summarizing and compiling NETN forest data<br>  <a href="https://github.com/KateMMiller/wetlandACAD">wetlandACAD:</a> R package for summarizing and compiling freshwater wetland data in Acadia National Park<br>  <a href="https://github.com/KateMMiller/wetlandViz">wetlandViz:</a> R shiny app to visualize freshwater wetland data in Acadia National Park<br>
+Github profile:
+<a href="https://github.com/KateMMiller">KateMMiller</a><br>
+<a href="https://github.com/KateMMiller/forestMIDN">forestMIDN:</a> R
+package for summarizing and compiling MIDN forest data<br>
+<a href="https://github.com/KateMMiller/forestNETN">forestNETN:</a> R
+package for summarizing and compiling NETN forest data<br>
+<a href="https://github.com/KateMMiller/forestQAQC">forestQAQC:</a>
+QA/QC R markdown reports for weekly checks, QA/QC reports, and compiling
+previous visit data forms.<br>
+<a href="https://github.com/KateMMiller/NETN_water_summaries">NETN_water_summaries:</a>
+R Markdown reports by park to summarize monthly water data relative to
+historic data.<br>
+<a href="https://github.com/KateMMiller/wetlandACAD">wetlandACAD:</a> R
+package for summarizing and compiling freshwater wetland data in Acadia
+National Park<br>
+<a href="https://github.com/KateMMiller/wetlandViz">wetlandViz:</a> R
+shiny app to visualize freshwater wetland data in Acadia National
+Park<br>
+<a href="https://github.com/KateMMiller/forestTrends">forestTrends:</a>
+R package for non-parametric trend analysis with mixed models. Package
+includes non-parametric power simulations.<br>
+<a href="https://github.com/KateMMiller/rockyIntertidal">rockyIntertidal:</a>
+R package for rocky intertidal data, including compiling temp. logger
+data relative to high tide and compiling, summarizing, and visualizing
+community data. <br>
 </p>
 <h2>
 Other websites/Information
 </h2>
 <p style="font-size:16px">
-<a href="https://www.nps.gov/im/netn">Northeast Temperate Network homepage</a><br> <a href="https://www.nps.gov/im/midn">Mid-Atlantic Network homepage</a><br> <a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a><br> <a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br> <a href="./info/Miller_CV_2020.pdf">CV</a><br>
+<a href="./info/Kate_Miller_CV_2023.pdf">CV</a><br>
+<a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google
+Scholar publications</a><br>
+<a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br>
+<a href="https://katemmiller.shinyapps.io/NETN_FHM_photos/">NETN Forest
+Photopoint Viewer</a><br>
+<a href="https://katemmiller.shinyapps.io/MIDN_FVM_photos/">MIDN Forest
+Photopoint Viewer</a><br>
+<a href="https://katemmiller.shinyapps.io/wetlandviz/">ACAD Freshwater
+Wetland Visualizer</a><br>
+<a href="https://www.nps.gov/im/netn">Northeast Temperate Network
+homepage</a><br> <a href="https://www.nps.gov/im/midn">Mid-Atlantic
+Network homepage</a><br>
 </p>
+<p><img src="info/ACAD_Wetlands_New_Mills_Meadow_Miller_20150721.JPG" alt = "Photo of Kate in wetland" width = "900"></p>
 
 
 
@@ -212,7 +244,7 @@ Other websites/Information
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -230,7 +262,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
