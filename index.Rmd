@@ -10,7 +10,7 @@ output:
 <a href="https://katemmiller.github.io/IMD_R_Training_Intro/">IMD 2022 Scientists Training- Intro to R:</a> Developed Prep for Training and Visualizing Spatial Data.<br>
 <a href="https://katemmiller.github.io/IMD_R_Training_Advanced/">IMD 2022 Scientists Training- Advanced R:</a> Developed Prep for Training, Data Retrieval, GIS in R, Downloading FIA data, R Markdown, and R Packages.<br>
 <a href="https://katemmiller.github.io/R_Training/">ACAD R Training Fall 2020:</a> Intro to R training for Acadia NP Resource Management staff.<br>
-<a href="https://katemmiller.github.io/Forest_Crew_R_Training">Forest Crew R Training 2020:</a> Intro to R training for NETN/MIDN forest crew.<br>
+<a href="https://katemmiller.github.io/Forest_Crew_R_Training">Forest Crew R Training 2020:</a> Intro to R training for NETN/MIDN forest crew during summer 2020.<br>
 </p>
 
 <h2>Github repos</h2>
