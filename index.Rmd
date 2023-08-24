@@ -29,7 +29,7 @@ Github profile: <a href="https://github.com/KateMMiller">KateMMiller</a><br>
 
 <h2>Other websites/Information</h2>
 <p style="font-size:16px">
-<a href="./info/Kate_Miller_CV_2023.pdf">CV</a><br>
+<a href="./info/KMiller_CV_2023.pdf">CV</a><br>
 <a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a><br>
 <a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br>
 <a href="https://katemmiller.shinyapps.io/NETN_FHM_photos/">NETN Forest Photopoint Viewer</a><br>
