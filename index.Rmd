@@ -39,4 +39,4 @@ Github profile: <a href="https://github.com/KateMMiller">KateMMiller</a><br>
 <a href="https://www.nps.gov/im/midn">Mid-Atlantic Network homepage</a><br>
 </p>
 
-<img src="./info/ACAD_Wetlands_New_Mills_Meadow_Miller_20150721.JPG" alt = "Photo of Kate in wetland" width = "900">
+<img src="./info/ACAD_Wetlands_New_Mills_Meadow_Miller_20150721.JPG" alt = "Photo of Kate in Acadia wetland" width = "900">
