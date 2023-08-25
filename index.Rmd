@@ -3,6 +3,11 @@ output:
   html_document:
     css: css/custom_styles.css
 ---
+
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
 <h1><b>Kate Miller GitHub landing page</b></h1>
 
 <h2>R training websites</h2>
