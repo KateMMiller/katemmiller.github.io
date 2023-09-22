@@ -37,9 +37,6 @@ Github profile: <a href="https://github.com/KateMMiller">KateMMiller</a><br>
 <a href="./info/Kate_Miller_CV_2023.pdf">CV</a><br>
 <a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a><br>
 <a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br>
-<a href="https://katemmiller.shinyapps.io/MIDN_FVM_photos/">MIDN Forest Photopoint Viewer</a><br>
-<a href="https://katemmiller.shinyapps.io/NETN_FHM_photos/">NETN Forest Photopoint Viewer</a><br>
-<a href="https://katemmiller.shinyapps.io/wetlandviz/">ACAD Freshwater Wetland Visualizer</a><br>
 <a href="https://www.nps.gov/im/netn">Northeast Temperate Network homepage</a><br>
 <a href="https://www.nps.gov/im/midn">Mid-Atlantic Network homepage</a><br>
 </p>
