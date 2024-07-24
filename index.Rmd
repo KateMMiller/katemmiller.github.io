@@ -40,4 +40,4 @@ output:
 <a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br>
 </p>
 
-<img src="./info/ACAD_Wetlands_New_Mills_Meadow_Miller_20150721.JPG" alt = "Photo of Kate in Acadia wetland" width = "900">
+<img src="ACAD_Wetlands_New_Mills_Meadow_Miller_20150721.JPG" alt = "Photo of Kate in Acadia wetland" width = "900">
