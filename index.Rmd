@@ -18,27 +18,26 @@ output:
 <a href="https://katemmiller.github.io/Forest_Crew_R_Training">Forest Crew R Training 2020:</a> Intro to R training for NETN/MIDN forest crew during summer 2020.<br>
 </p>
 
-<h2>Github repos</h2>
-<p style="font-size:16px">
-Github profile: <a href="https://github.com/KateMMiller">KateMMiller</a><br>
-<a href="https://github.com/KateMMiller/forestMIDN">forestMIDN:</a> R package for summarizing and compiling MIDN forest data<br>
-<a href="https://github.com/KateMMiller/forestNETN">forestNETN:</a> R package for summarizing and compiling NETN forest data<br>
-<a href="https://github.com/KateMMiller/forestQAQC">forestQAQC:</a> QA/QC R markdown reports for weekly checks, QA/QC reports, and compiling previous visit data forms.<br>
-<a href="https://github.com/KateMMiller/NETN_water_summaries">NETN_water_summaries:</a> R Markdown reports by park to summarize monthly water data relative to historic data.<br>
-<a href="https://github.com/KateMMiller/wetlandACAD">wetlandACAD:</a> R package for summarizing and compiling freshwater wetland data in Acadia National Park<br>
-<a href="https://github.com/KateMMiller/wetlandViz">wetlandViz:</a> R shiny app to visualize freshwater wetland data in Acadia National Park<br>
-<a href="https://github.com/KateMMiller/forestTrends">forestTrends:</a> R package for non-parametric trend analysis with mixed models. Package includes non-parametric power simulations.<br>
-<a href="https://github.com/KateMMiller/rockyIntertidal">rockyIntertidal:</a> R package for rocky intertidal data, including compiling temp. logger data relative to high tide and compiling, summarizing, and visualizing community data. <br>
-</p>
-
+<h2>Github code repositories</h2>
+<ul style="font-size:16px">
+<li>Github profile: <a href="https://github.com/KateMMiller">KateMMiller</a></li>
+<li><a href="https://github.com/KateMMiller/forestMIDN">forestMIDN:</a> R package for summarizing and compiling MIDN forest data</li>
+<li><a href="https://github.com/KateMMiller/forestNETN">forestNETN:</a> R package for summarizing and compiling NETN forest data</li>
+<li><a href="https://github.com/KateMMiller/forestQAQC">forestQAQC:</a> R Markdown reports for weekly QA/QC, QA/QC visit comparisons, and summarizing data from previous visits.</li>
+<li><a href="https://github.com/KateMMiller/forestTrends">forestTrends:</a> R package for using non-parametric bootstrap to assess temporal linear trends with fixed plot data and for non-parametric power simulations of linear trends.</li>
+<li><a href="https://github.com/KateMMiller/climateNETN">climateNETN:</a> R package for downloading, summarizing and visualizing monthly climate data for NETN parks by park centroid. See <a href="https://katemmiller.github.io/climateNETN/">NETN climate summaries:</a> for the latest summaries in NETN parks based on NOAA monthly gridded climate data. </li>
+<li><a href="https://github.com/KateMMiller/wetlandACAD">wetlandACAD:</a> R package for summarizing and compiling freshwater wetland data in Acadia National Park</li>
+<li><a href="https://github.com/KateMMiller/wetlandViz">wetlandViz:</a> R shiny app to visualize freshwater wetland data in Acadia National Park. Contact me for a link to the visualizer.</li>
+<li><a href="https://github.com/KateMMiller/waterNETN">waterNETN:</a> R package for importing, querying, summarizing, and visualizing NETN water monitoring data. See the <a href="https://katemmiller.github.io/waterNETN/">How-To website</a> for tips on installing and using this package.</li>
+</ul>
 
 <h2>Other websites/Information</h2>
 <p style="font-size:16px">
-<a href="./info/Kate_Miller_CV_2023.pdf">CV</a><br>
-<a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a><br>
-<a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br>
+<a href="./info/Kate_Miller_CV_2024.pdf">CV</a><br>
 <a href="https://www.nps.gov/im/netn">Northeast Temperate Network homepage</a><br>
 <a href="https://www.nps.gov/im/midn">Mid-Atlantic Network homepage</a><br>
+<a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a><br>
+<a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br>
 </p>
 
 <img src="./info/ACAD_Wetlands_New_Mills_Meadow_Miller_20150721.JPG" alt = "Photo of Kate in Acadia wetland" width = "900">
