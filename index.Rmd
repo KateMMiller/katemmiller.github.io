@@ -1,4 +1,5 @@
 ---
+title: "Kate Miller"
 output: 
   html_document:
     css: css/custom_styles.css
@@ -7,17 +8,37 @@ output:
 <meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
+```{css echo = FALSE}
+body {line-height: 1;}
+```
 
-<h1><b>Kate Miller GitHub landing page</b></h1>
-
+<h1><b>Kate Miller</b></h1><br>
+<p style="font-size:16px;"><a href="./info/Kate_Miller_CV_2025.pdf">Curriculum vitae</a></p>
+<h2>Summary</h2>
+<p style="font-size:16px;">
+Senior Quantitative Ecologist (GS-13) with 20+ years of experience directing ecological monitoring, landscape restoration, and data science modernization across U.S. National parks. Proven leader in developing automated analytics and decision-support tools that inform park planning, conservation policy, and climate resilience efforts across eastern parks. Recognized with multiple national awards for technical innovation, ground-breaking research, and measurable outcomes.
+<ul style="font-size:16px">
+<li>Founding member of the <a href="https://www.nps.gov/im/resilient-forests-initiative.htm">National Park Service Resilient Forest Initiative</a> to increase forest resilience in eastern national parks through landscape-level restoration, information sharing, and innovative science.</li> 
+<li>Thorough knowledge of and experience sampling forest and wetland ecosystems in the Eastern US.</li>
+<li>Extensive experience designing and implementing long-term monitoring programs, developing ecological indicators, and integrating with management.</li>
+<li>Advanced statistical skills, including sample design, generalized linear mixed modelling, multivariate statistics, spatial and conditional autoregressive modelling, and machine learning. </li>
+<li>Advanced data science skills, including functional programming and iteration, package development, version control and GitHub, automated reporting, data wrangling and manipulation, and data visualization. Fluent in R and HTML/CSS, and experience with SQL, LaTex, and Python.</li>
+<li>Extensive experience analyzing complex datasets, including the National Land Cover Database, gridded climate and weather station data, US Forest Service Forest Inventory and Analysis data, and Environmental Protection Agency National Aquatic Resource Survey data. 
+Extensive experience working on and leading interdisciplinary teams for planning, monitoring, and implementation of management actions in national parks.</li>
+<li>Adept with GIS and GPS technologies, relational databases, spreadsheets, and word processing.</li></ul></p>
+<h2>Dashboards</h2>
+<ul style="font-size:16px">
+<li><a href = "https://katemmiller.shinyapps.io/wetlandviz/">Acadia Wetland Visualizer</a></li>
+<li><a href = "https://katemmiller.github.io/climateNETN/">NETN Climate Summaries</a></li>
+<li><a href = "https://katemmiller.github.io/waterSummaries/">NETN Water Summaries</a></li>
+<li><a href = "https://katemmiller.shinyapps.io/MIDN_FVM_photos/">MIDN Photopoint Viewer</a></li>
+<li><a href = "https://katemmiller.shinyapps.io/NETN_FHM_photos/">NETN Photopoint Viewer</a></li></ul>
 <h2>R training websites</h2>
-<p style="font-size:16px">
-<a href="https://katemmiller.github.io/IMD_R_Training_Intro/">IMD 2022 Scientists Training- Intro to R:</a> Developed Prep for Training and Visualizing Spatial Data.<br>
-<a href="https://katemmiller.github.io/IMD_R_Training_Advanced/">IMD 2022 Scientists Training- Advanced R:</a> Developed Prep for Training, Data Retrieval, GIS in R, Downloading FIA data, R Markdown, and R Packages.<br>
-<a href="https://katemmiller.github.io/R_Training/">ACAD R Training Fall 2020:</a> Intro to R training for Acadia NP Resource Management staff.<br>
-<a href="https://katemmiller.github.io/Forest_Crew_R_Training">Forest Crew R Training 2020:</a> Intro to R training for NETN/MIDN forest crew during summer 2020.<br>
-</p>
-
+<ul style="font-size:16px">
+<li><a href="https://katemmiller.github.io/IMD_R_Training_Intro/">IMD 2022 Scientists Training- Intro to R:</a> Developed Prep for Training and Visualizing Spatial Data.</li>
+<li><a href="https://katemmiller.github.io/IMD_R_Training_Advanced/">IMD 2022 Scientists Training- Advanced R:</a> Developed Prep for Training, Data Retrieval, GIS in R, Downloading FIA data, R Markdown, and R Packages.</li>
+<li><a href="https://katemmiller.github.io/R_Training/">ACAD R Training Fall 2020:</a> Intro to R training for Acadia NP Resource Management staff.</li>
+<li><a href="https://katemmiller.github.io/Forest_Crew_R_Training">Forest Crew R Training 2020:</a> Intro to R training for NETN/MIDN forest crew during summer 2020.</li></ul>
 <h2>Github code repositories</h2>
 <ul style="font-size:16px">
 <li>Github profile: <a href="https://github.com/KateMMiller">KateMMiller</a></li>
@@ -28,16 +49,16 @@ output:
 <li><a href="https://github.com/KateMMiller/climateNETN">climateNETN:</a> R package for downloading, summarizing and visualizing monthly climate data for NETN parks by park centroid. See <a href="https://katemmiller.github.io/climateNETN/">NETN climate summaries:</a> for the latest summaries in NETN parks based on NOAA monthly gridded climate data. </li>
 <li><a href="https://github.com/KateMMiller/wetlandACAD">wetlandACAD:</a> R package for summarizing and compiling freshwater wetland data in Acadia National Park</li>
 <li><a href="https://github.com/KateMMiller/wetlandViz">wetlandViz:</a> R shiny app to visualize freshwater wetland data in Acadia National Park. Contact me for a link to the visualizer.</li>
+<li><a href="https://github.com/katemmiller/wetlandhtln">wetlandHTLN:</a> R package for summarizing and compiling freshwater wetland data in Heartland Network, including automating calculation of the Ohio EPA Vegetation Index of Biotic Integrity. See the <a href="https://katemmiller.github.io/wetlandHTLN/">How-To website</a> for tips on installing and using this package.</li>
 <li><a href="https://github.com/KateMMiller/waterNETN">waterNETN:</a> R package for importing, querying, summarizing, and visualizing NETN water monitoring data. See the <a href="https://katemmiller.github.io/waterNETN/">How-To website</a> for tips on installing and using this package.</li>
 </ul>
-
 <h2>Other websites/Information</h2>
-<p style="font-size:16px">
-<a href="./info/Kate_Miller_CV_2024.pdf">CV</a><br>
-<a href="https://www.nps.gov/im/netn">Northeast Temperate Network homepage</a><br>
-<a href="https://www.nps.gov/im/midn">Mid-Atlantic Network homepage</a><br>
-<a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a><br>
-<a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a><br>
-</p>
+<ul style="font-size:16px">
+<li><a href="https://www.nps.gov/im/resilient-forests-initiative.htm">National Park Service Resilient Forest Initiative</a></li>
+<li><a href="https://www.nps.gov/im/netn">Northeast Temperate Network homepage</a></li>
+<li><a href="https://www.nps.gov/im/midn">Mid-Atlantic Network homepage</a></li>
+<li><a href="https://scholar.google.com/citations?hl=en&user=RgRcsHoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar publications</a></li>
+<li><a href="https://www.researchgate.net/profile/Kathryn_Miller8">ResearchGate</a></li>
+</ul>
 
-<img src="ACAD_Wetlands_New_Mills_Meadow_Miller_20150721.JPG" alt = "Photo of Kate in Acadia wetland" width = "900">
+<img src="ACAD_Wetlands_New_Mills_Meadow_Miller_20150721.JPG" alt = "Photo of Kate in Acadia wetland" width = "1100">
