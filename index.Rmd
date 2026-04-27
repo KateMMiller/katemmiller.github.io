@@ -16,7 +16,7 @@ body {line-height: 1;}
 <p style="font-size:16px;"><a href="./info/Kate_Miller_CV_2026.pdf">Curriculum vitae</a></p>
 <h2>Summary</h2>
 <p style="font-size:16px;">
-Senior Quantitative Ecologist (GS-13) with 20+ years of experience directing ecological monitoring, landscape restoration, and data science modernization across U.S. National parks. Proven leader in developing automated analytics and decision-support tools that inform park planning, conservation policy, and climate resilience efforts across eastern parks. Recognized with multiple national awards for technical innovation, ground-breaking research, and measurable outcomes.
+Senior Quantitative Ecologist (GS-12) with 20+ years of experience directing ecological monitoring, landscape restoration, and data science modernization across U.S. National parks. Proven leader in developing automated analytics and decision-support tools that inform park planning, conservation policy, and climate resilience efforts across eastern parks. Recognized with multiple national awards for technical innovation, ground-breaking research, and measurable outcomes.
 <ul style="font-size:16px">
 <li>Founding member of the <a href="https://www.nps.gov/im/resilient-forests-initiative.htm">National Park Service Resilient Forest Initiative</a> to increase forest resilience in eastern national parks through landscape-level restoration, information sharing, and innovative science.</li> 
 <li>Thorough knowledge of and experience sampling forest and wetland ecosystems in the Eastern US.</li>
