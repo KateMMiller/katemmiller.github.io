@@ -13,7 +13,7 @@ body {line-height: 1;}
 ```
 
 <h1><b>Kate Miller</b></h1><br>
-<p style="font-size:16px;"><a href="./info/Kate_Miller_CV_2025.pdf">Curriculum vitae</a></p>
+<p style="font-size:16px;"><a href="./info/Kate_Miller_CV_2026.pdf">Curriculum vitae</a></p>
 <h2>Summary</h2>
 <p style="font-size:16px;">
 Senior Quantitative Ecologist (GS-13) with 20+ years of experience directing ecological monitoring, landscape restoration, and data science modernization across U.S. National parks. Proven leader in developing automated analytics and decision-support tools that inform park planning, conservation policy, and climate resilience efforts across eastern parks. Recognized with multiple national awards for technical innovation, ground-breaking research, and measurable outcomes.
@@ -26,6 +26,7 @@ Senior Quantitative Ecologist (GS-13) with 20+ years of experience directing eco
 <li>Extensive experience analyzing complex datasets, including the National Land Cover Database, gridded climate and weather station data, US Forest Service Forest Inventory and Analysis data, and Environmental Protection Agency National Aquatic Resource Survey data. 
 Extensive experience working on and leading interdisciplinary teams for planning, monitoring, and implementation of management actions in national parks.</li>
 <li>Adept with GIS and GPS technologies, relational databases, spreadsheets, and word processing.</li></ul></p>
+
 <h2>Dashboards</h2>
 <ul style="font-size:16px">
 <li><a href = "https://katemmiller.shinyapps.io/wetlandviz/">Acadia Wetland Visualizer</a></li>
@@ -33,8 +34,11 @@ Extensive experience working on and leading interdisciplinary teams for planning
 <li><a href = "https://katemmiller.github.io/waterSummaries/">NETN Water Summaries</a></li>
 <li><a href = "https://katemmiller.shinyapps.io/MIDN_FVM_photos/">MIDN Photopoint Viewer</a></li>
 <li><a href = "https://katemmiller.shinyapps.io/NETN_FHM_photos/">NETN Photopoint Viewer</a></li></ul>
+
 <h2>R training websites</h2>
 <ul style="font-size:16px">
+<li><a href = "https://katemmiller.github.io/MMA_R_Training_2026/">Spring 2026 Intro to R: </a> 3-day crash course in data wrangling and visualization for for Maine Maritime Academy Ocean Studies faculty</li>
+<li><a href = "https://katemmiller.github.io/IMD_R_Training_2026/">Spring 2026 Intro to R: </a> 3-day crash course in data wrangling and visualization for NPS Inventory and Monitoring staff.</a></li>
 <li><a href="https://katemmiller.github.io/IMD_R_Training_Intro/">IMD 2022 Scientists Training- Intro to R:</a> Developed Prep for Training and Visualizing Spatial Data.</li>
 <li><a href="https://katemmiller.github.io/IMD_R_Training_Advanced/">IMD 2022 Scientists Training- Advanced R:</a> Developed Prep for Training, Data Retrieval, GIS in R, Downloading FIA data, R Markdown, and R Packages.</li>
 <li><a href="https://katemmiller.github.io/R_Training/">ACAD R Training Fall 2020:</a> Intro to R training for Acadia NP Resource Management staff.</li>
